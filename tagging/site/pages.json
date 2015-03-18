@@ -1,0 +1,368 @@
+[
+    {
+        "key": "orbanviktor",
+        "lastmodified": 0,
+        "name": "Orbán Viktor",
+        "fbid":"298090296092",
+        "sub1": "Orbán Viktorra (Fidesz)"
+    },
+    {
+        "key": "FideszHU",
+        "lastmodified": 0,
+        "fbid":"9844779306",
+        "name": "Fidesz",
+        "sub1": "a Fideszre"
+    },
+    {
+        "key": "mesterhazy.attila",
+        "lastmodified": 0,
+        "name": "Mesterházy Attila",
+        "fbid":"188002774639",
+        "sub1": "Mesterházy Attilára (MSZP)"
+    },
+    {
+        "key": "mszpfb",
+        "lastmodified": 0,
+        "fbid":"115388925185513",
+        "name": "MSZP",
+        "sub1": "az MSZP-re"
+    },
+    {
+        "key": "JobbikMagyarorszagertMozgalom",
+        "lastmodified": 0,
+        "name": "Jobbik Magyarországért Mozgalom",
+        "fbid":"287770891404",
+        "sub1": "a Jobbikra"
+    },
+    {
+        "key": "gyurcsanyf",
+        "lastmodified": 0,
+        "fbid":"187301974635606",
+        "name": "Gyurcsány Ferenc",
+        "sub1": "Gyurcsány Ferencre (DK)"
+    },
+    {
+        "key": "vonagabor",
+        "lastmodified": 0,
+        "fbid":"247920204622",
+        "name": "Vona Gábor",
+        "sub1": "Vona Gáborra (Jobbik)"
+    },
+    {
+        "key": "lmpbudapest",
+        "lastmodified": 0,
+        "name": "LMP Budapest",
+        "fbid":"179392595425293",
+        "sub1": "az LMP-re"
+    },
+    {
+        "key": "schifferandras",
+        "lastmodified": 0,
+        "fbid":"266574218667",
+        "name": "Schiffer András",
+        "sub1": "Schiffer Andrásra (LMP)"
+    },
+    {
+        "key": "karacsonygergely",
+        "lastmodified": 0,
+        "fbid":"193944440638410",
+        "name": "Karácsony Gergely",
+        "sub1": "Karácsony Gergelyre (PM)"
+    },
+    {
+        "key": "egyutt2014",
+        "lastmodified": 0,
+        "fbid":"278219632295951",
+        "name": "Együtt 2014 Mozgalom",
+        "sub1": "az Együtt 2014 Mozgalomra"
+    },
+    {
+        "key": "tibor.szanyi",
+        "lastmodified": 0,
+        "name": "Szanyi Tibor",
+        "sub1": "Szanyi Tiborra (MSZP)"
+    },
+    {
+        "key": "BajnaiGordon",
+        "lastmodified": 0,
+        "fbid":"62894440884",
+        "name": "Bajnai Gordon",
+        "sub1": "Bajnai Gordonra (E14)"
+    },
+    {
+        "key": "tarlos.istvan",
+        "lastmodified": 0,
+        "name": "Tarlós István",
+        "fbid":"141055191841",
+        "sub1": "Tarlós Istvánra"
+    },
+    {
+        "key": "schmuck.andor",
+        "lastmodified": 0,
+        "name": "Schmuck Andor",
+        "fbid":"347271088703107",
+        "sub1": "Schmuck Andorra (MSZDP, Tisztelet Társasága)"
+    },
+    {
+        "key": "balogzoltanpol",
+        "lastmodified": 0,
+        "name": "Balogh Zoltán",
+        "fbid":"163100677167670",
+        "sub1": "Balogh Zoltánra (Fidesz)"
+    },
+    {
+        "key": "102519776491799",
+        "lastmodified": 0,
+        "fbid":"102519776491799",
+        "name": "Semjén Zsolt",
+        "sub1": "Semjén Zsoltra (KDNP)"
+    },
+    {
+        "key": "144248758922092",
+        "lastmodified": 0,
+        "fbid":"144248758922092",
+        "name": "Navracsics Tibor",
+        "sub1": "Navracsics Tibor (Fidesz)"
+    },
+    {
+        "key": "kubatovgabor",
+        "lastmodified": 0,
+        "name": "Kubatov Gábor",
+        "fbid":"267882727864",
+        "sub1": "Kubatov Gáborra (Fidesz)"
+    },
+    {
+        "key": "drretvaribence",
+        "lastmodified": 0,
+        "fbid":"206829842043",
+        "name": "Rétvári Bence",
+        "sub1": "Rétvári Bencére (KDNP)"
+    },
+    {
+        "key": "vagogabor",
+        "fbid":"453253875264",
+        "lastmodified": 0,
+        "name": "Vágó Gábor",
+        "sub1": "Vágó Gáborra (LMP)"
+    },
+    {
+        "key": "394108863980725",
+        "lastmodified": 0,
+        "fbid":"394108863980725",
+        "name": "Papcsák Ferenc",
+        "sub1": "Papcsák Ferencre (Fidesz)"
+    },
+    {
+        "key": "szabotimeapm",
+        "lastmodified": 0,
+        "fbid":"156847374371871",
+        "name": "Szabó Tímea",
+        "sub1": "Szabó Tímeára (PM)"
+    },
+    {
+        "key": "ertseykatalin",
+        "lastmodified": 0,
+        "fbid":"169209829794824",
+        "name": "Ertsey Katalin (LMP)",
+        "sub1": "Ertsey Katalinra"
+    },
+    {
+        "key": "hmhendecsaba",
+        "lastmodified": 0,
+        "fbid":"333682340095114",
+        "name": "Hende Csaba",
+        "sub1": "Hende Csabára (Fidesz)"
+    },
+    {
+        "key": "324771568775",
+        "lastmodified": 0,
+        "fbid":"324771568775",
+        "name": "Varga Mihály",
+        "sub1": "Varga Mihályra (Fidesz)"
+    },
+    {
+        "key": "150980978331885",
+        "lastmodified": 0,
+        "name": "Surján László",
+        "fbid":"150980978331885",
+        "sub1": "Surján Lászlóra (Fidesz)"
+    },
+    {
+        "key": "szaborebekapm",
+        "lastmodified": 0,
+        "fbid":"186937904681332",
+        "name": "Szabó Réka",
+        "sub1": "Szabó Rékára (PM)"
+    },
+
+    {
+        "key": "433419726745928",
+        "lastmodified": 0,
+        "fbid":"433419726745928",
+        "name": "Bokros Lajos",
+        "sub1": "Bokros Lajosra (Modern Magyarország Mozgalom)"
+    },
+    {
+        "key": "Juhi.JuhaszPeter",
+        "lastmodified": 0,
+        "fbid":"478686885537133",
+        "name": "Juhász Péter",
+        "sub1": "Juhász Péterre (E14)"
+    },
+    {
+        "key": "scheiringgabor",
+        "lastmodified": 0,
+        "fbid":"171832936183110",
+        "name": "Scheiring Gábor",
+        "sub1": "Scheiring Gáborra (PM)"
+    },
+    {
+        "key": "206160682739388",
+        "lastmodified": 0,
+        "fbid":"206160682739388",
+        "name": "Harrach Péter",
+        "sub1": "Harrach Péterre (KDNP)"
+    },
+    {
+        "key": "thurmergyula",
+        "lastmodified": 0,
+        "fbid":"210139955674316",
+        "name": "Thürmer Gyula",
+        "sub1": "Thürmer Gyulára (Munkáspárt)"
+    },
+    {
+        "key": "lsimonlaszlo",
+        "lastmodified": 0,
+        "fbid":"136451706509121",
+        "name": "L. Simon László",
+        "sub1": "L. Simon Lászlóra (Fidesz)"
+    },
+    {
+        "key": "KosaLajos",
+        "lastmodified": 0,
+        "fbid":"451911368154386",
+        "name": "Kósa Lajos",
+        "sub1": "Kósa Lajosra (Fidesz)"
+    },
+    {
+        "key": "morvai.krisztina",
+        "lastmodified": 0,
+        "fbid":"282077899700",
+        "name": "Morvai Krisztina",
+        "sub1": "Morvai Krisztinára"
+    },
+    {
+        "key": "javorbenedek",
+        "lastmodified": 0,
+        "fbid":"131797633528377",
+        "name": "Jávor Benedek",
+        "sub1": "Jávor Benedekre (PM)"
+    },
+    {
+        "key": "119451031405493",
+        "lastmodified": 0,
+        "fbid":"119451031405493",
+        "name": "Kövér László",
+        "sub1": "Kövér Lászlóra (Fidesz)"
+    },
+    {
+        "key": "szelbernadett",
+        "lastmodified": 0,
+        "name": "Szél Bernadett",
+        "fbid":"160102384102712",
+        "sub1": "Szél Bernadettre (LMP)"
+    },
+    {
+        "key": "aderjanos",
+        "lastmodified": 0,
+        "fbid":"377794852284701",
+        "name": "Áder János",
+        "sub1": "Áder Jánosra (Fidesz)"
+    },
+    {
+        "key": "184922004946258",
+        "lastmodified": 0,
+        "name": "Horváth Csaba",
+        "fbid":"184922004946258",
+        "sub1": "Horváth Csabára (MSZP)"
+    },
+    {
+        "key": "drszekeresimre",
+        "lastmodified": 0,
+        "fbid":"441044595962644",
+        "name": "Szekeres Imre",
+        "sub1": "Szekeres Imrére (MSZP)"
+    },
+    {
+        "key": "parbeszedmagyarorszagert",
+        "lastmodified": 0,
+        "fbid":"113684438795574",
+        "name": "Párbeszéd Magyarországért",
+        "sub1": "PM-re"
+    },
+    {
+        "key": "dk365",
+        "lastmodified": 0,
+        "fbid":"169599166463839",
+        "name": "Demokratikus Koalíció",
+        "sub1": "DK-ra"
+    },
+    {
+        "key": "zagyva.gyula",
+        "lastmodified": 0,
+        "fbid":"111471075562599",
+        "name": "Zagyva Gyula",
+        "sub1": "Zagyva Gyulára (Jobbik)"
+    },
+
+    {
+        "key": "volner.janos",
+        "lastmodified": 0,
+        "fbid":"420451801378878",
+        "name": "Volner János",
+        "sub1": "Volner Jánosra (Jobbik)"
+    },
+    {
+        "key": "143517462384089",
+        "lastmodified": 0,
+        "fbid":"143517462384089",
+        "name": "Staudt Gábor",
+        "sub1": "Staudt Gáborra (Jobbik)"
+    },
+    {
+        "key": "gaudinagytamas",
+        "lastmodified": 0,
+        "fbid":"255514774501485",
+        "name": "Gaudi-Nagy Tamás",
+        "sub1": "Gaudi-Nagy Tamásra (Jobbik)"
+
+    },
+    {
+        "key": "durodora",
+        "lastmodified": 0,
+        "fbid":"191946490841225",
+        "name": "Dúró Dóra",
+        "sub1": "Dúró Dórára (Jobbik)"
+    },
+    {
+        "key": "dk.varju",
+        "lastmodified": 0,
+        "fbid":"260927000625137",
+        "name": "Varju László",
+        "sub1": "Varju Lászlóra (DK)"
+    },
+    {
+        "key": "vadaiagnes",
+        "lastmodified": 0,
+        "fbid":"175631865860693",
+        "name": "Vadai Ágnes",
+        "sub1": "Vadai Ágnesre (DK)"
+    },
+    {
+        "key": "drmolnarcsaba",
+        "lastmodified": 0,
+        "fbid":"306318386058001",
+        "name": "Dr. Molnár Csaba",
+        "sub1": "Dr. Molnár Csabára (DK)"
+    }
+]

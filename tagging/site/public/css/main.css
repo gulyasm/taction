@@ -1,0 +1,42 @@
+.content {
+    margin-left:auto;
+    margin-right:auto;
+}
+
+.email {
+     font-style:italic;
+}
+
+#img-target {
+    max-height: 30%;
+}
+
+
+#button-skip-comment {
+    padding: 24pt;
+    margin-bottom: 48px;
+}
+
+.center {
+    text-align: center;
+}
+
+.comment-content {
+    margin-top: 24px;
+    margin-bottom: 24px;
+    min-height: 300px;
+    border: 1px solid #e7e7e7;
+}
+
+.select-sentiment-comment button {
+    float:none;
+    font-size: small;
+    margin-right: 1%;
+    width: 30%;
+    padding: 12px;
+}
+
+.comment {
+    margin-top: 64px;
+}
+

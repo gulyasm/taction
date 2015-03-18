@@ -1,0 +1,54 @@
+doctype html 
+html
+    head
+        title Attitűdelemzés
+        meta(name='viewport', content='width=device-width, initial-scale=1.0')
+        link(href='css/bootstrap.css', rel='stylesheet', media='screen')
+        link(href='css/main.css', rel='stylesheet', media='screen')
+    script.
+      var commentId = "#{commentId}";
+      var contentId = "#{contentId}";
+      var type = "#{type}"
+    body
+        .navbar.navbar-inverse
+            .navbar-inner
+                .container
+                    //
+                       .btn-navbar is used as the toggle for collapsed navbar content
+                    a.btn.btn-navbar(data-toggle='collapse', data-target='.nav-collapse')
+                        span.icon-bar
+                        span.icon-bar
+                        span.icon-bar
+                    //
+                       Be sure to leave the brand out there if you want it shown
+                    a.brand(href='#') Attitűdelemzés
+                    ul.nav.pull-right
+                        li.pull-right
+                            a(href='about') A projektről
+                    //
+                       Everything you want hidden at 940px or less, place within here
+                    .nav-collapse.collapse
+                        //
+                           .nav, .navbar-search, .navbar-form, etc
+        .content.center
+           .row-fluid
+                .span10.offset1.title_comment
+                    h3 #{name} falára az alábbi komment érkezett. A komment ön szerint milyen általános érzelmet hordoz?
+           .row-fluid
+                .span8.offset2.comment-content
+                    h4 #{comment}
+            .row-fluid
+                .offset1.span10.select-sentiment-comment
+                    button#button-sentiment-p1.btn.btn-danger(onclick='publishComment(commentId,1)') Negativ <br>
+                    button#button-sentiment-0.btn.btn-default(onclick='publishComment(commentId,0)') Semleges<br>
+                    button#button-sentiment-n1.btn.btn-success(onclick='publishComment(commentId,-1)') Pozitiv <br>
+                    h5.center vagy
+                    button#button-skip-comment.btn.btn-default(onclick='skip(commentId)') A kommentből nem megállapítható<br>
+
+
+        script(src='http://code.jquery.com/jquery.js')
+        script(src='js/jquery.hotkeys.js')
+        script(src='js/bootstrap.min.js')
+        script(src='js/main.js')
+        script(src='/js/analytics.js')
+        script(src='/js/fingerprint.js')

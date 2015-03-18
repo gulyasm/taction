@@ -1,0 +1,44 @@
+doctype html 
+html
+    head
+        title Attitűdelemzés - A projektről
+        meta(name='viewport', content='width=device-width, initial-scale=1.0')
+        //
+           Bootstrap
+        link(href='css/bootstrap.min.css', rel='stylesheet', media='screen')
+        link(href='css/main.css', rel='stylesheet', media='screen')
+    body
+        .navbar.navbar-inverse
+            .navbar-inner
+                .container
+                    //
+                       .btn-navbar is used as the toggle for collapsed navbar content
+                    a.btn.btn-navbar(data-toggle='collapse', data-target='.nav-collapse')
+                        span.icon-bar
+                        span.icon-bar
+                        span.icon-bar
+                    //
+                       Be sure to leave the brand out there if you want it shown
+                    a.brand(href='/') Attitűdelemzés
+                    ul.nav.pull-right
+                        li.pull-right
+                            a(href='about') A projektről
+                    //
+                       Everything you want hidden at 940px or less, place within here
+                    .nav-collapse.collapse
+                        //
+                           .nav, .navbar-search, .navbar-form, etc
+        .content.row-fluid
+            .offset1.span10
+                h2 Sentiment analysis crowdsourced tagger
+                .text-content
+                    h3 Cél
+                    p A projekt célja egyetemi kutatáshoz nagy tömegek által annotált korpuszt készíteni. A korpuszt kizárólag egyetemi kutatásokhoz és diploma munkához használjuk fel. 
+
+                    h3 Adatvedelem
+                    p A projekt nem gyűjt semmilyen személyes adatot, csakis a válaszokat tároljuk. 
+                h3 Elerhetoseg
+                p.email gulyasm KUKAC tmit PONT bme PONT hu
+            script(src='http://code.jquery.com/jquery.js')
+            script(src='js/bootstrap.min.js')
+            script(src='/js/analytics.js')

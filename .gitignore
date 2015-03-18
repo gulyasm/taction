@@ -1,0 +1,9 @@
+node_modules
+*.swp
+tasks.xml
+workspace.xml
+area51.js
+*.pyc
+*.log
+tree_export.*
+.idea
